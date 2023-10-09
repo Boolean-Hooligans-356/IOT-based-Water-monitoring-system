@@ -9,15 +9,13 @@ We have designed an advanced monitoring system using Internet of Things (IoT) te
 
 Components and Technologies we used 
 Hardware:
-  Node MCU
-  Water flow sensors YF-S201
-  Turbidity sensor
-  ph probe 
-  Dallas temperature sensor DS18B20
-  Ultrasonic HC-SR04
+  Node MCU,
+  Water flow sensors YF-S201,
+  Turbidity sensor,
+  ph probe,
+  Dallas temperature sensor DS18B20,
+  Ultrasonic HC-SR04.
   
 Data storage:
-  We used Google Firebase's Realtime database 
-
-Mobile app developed using Flutter 
+  We've used Google Firebase's Realtime database 
 
